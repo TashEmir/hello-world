@@ -1,2 +1,2 @@
 # hello-world
-just first repository
+My name is Emir! I did my first commit! 
